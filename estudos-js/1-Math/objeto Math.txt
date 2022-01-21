@@ -1,0 +1,29 @@
+--- objeto Math, utilizando algumas funções para manipular formas numéricas
+
+** para arredondar um numero
+
+let num1 = 9.8575;
+
+let num2 = Math.floor(num1); //arredonda para baixo
+let num3 = Math.ceil(num1); //arredonda para cima
+let num4 = Math.round(num1); //arredonda para o mais próximo
+
+console.log(num2);
+console.log(num3);
+console.log(num4);
+
+** para mostra o maior e menor numero de uma sequência
+
+//pega o maior
+console.log(Math.max(1,2,3,4,5,-10,-50,1400,9,8));
+
+//pega o menor
+console.log(Math.min(1,2,3,4,5,-10,-50,1400,9,8));        
+
+** calcular potencia
+console.log(Math.pow(2, 10));
+console.log(2 ** 10); //mas pode ser feito assim também
+
+** calcular raiz quadrada
+let num1 = 9;
+console.log(num1 ** (1/2)); //pode ser feito assim
