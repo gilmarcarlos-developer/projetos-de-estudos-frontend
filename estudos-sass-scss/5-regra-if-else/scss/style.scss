@@ -1,0 +1,16 @@
+@mixin avatar($tamanho, $circulo: false){
+    width: $tamanho;
+    height: $tamanho;
+
+    @if($circulo){//se circulo igual a true, realiza o bloco
+        border-radius: $tamanho / 2;
+        border: 2px solid blue;
+    }@else{
+        border: 2px solid red;
+    }
+}
+
+.photo{
+    @include avatar(150px, true);
+    //@include avatar(150px, false);
+}
