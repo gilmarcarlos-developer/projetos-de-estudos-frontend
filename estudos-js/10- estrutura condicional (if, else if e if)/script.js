@@ -10,6 +10,8 @@ if (se a expressão for verdadeira){
     caso contrário, execute esse bloco
 }
 
+a estrutura condicional é encerrada assim que encontrar a PRIMEIRA opção verdadeira, o que faz com que os else if seguintes não sejam lidos ao encontrar o primeiro verdadeiro
+
 */
 
 const hora = 10;
