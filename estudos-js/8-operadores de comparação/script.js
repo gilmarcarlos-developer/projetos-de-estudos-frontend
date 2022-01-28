@@ -1,6 +1,6 @@
 /*
 
-Operadores de comparação
+--- Operadores de comparação ---
 
 > maior que
 >= maior ou igual
@@ -12,7 +12,6 @@ Operadores de comparação
 * funciona mas geralmente não utilizamos porque uma string 10 e um number 10 são diferentes, mas retornaria que são iguais
 == igualdade (valor)
 != diferente (valor)
-
 
 */
 
