@@ -1,0 +1,45 @@
+/* breakpoints: ler sobre no site do bootstrap */
+
+/* sm >= 576px */
+@media(min-width: 576px){
+    h1{
+        color: green;
+    }
+}
+/* md >= 768px */
+@media(min-width: 768px){
+    h1{
+        color: yellow;
+    }
+}
+/* lg >= 992px */
+@media(min-width: 992px){
+    h1{
+        color: purple;
+    }
+}
+
+.btn-primary{
+    background-color: black;
+}
+
+.container{
+    background-color: #999;
+}
+.container-fluid{
+    background-color: #888;
+}
+
+/* container breakpoint */
+.container-sm{
+    border: 2px solid blue;
+    margin-bottom: 20px;
+}
+.container-md{
+    border: 2px solid crimson;
+    margin-bottom: 20px;
+}
+.container-lg{
+    border: 2px solid chocolate;
+    margin-bottom: 20px;
+}
