@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/gilmar-carlos97/">Meu Linkedin!!</a>
 
-Esse repositório é um pouco do meu desenvolvimento profissional em frontend e inicio em backend. Eu decidi dividir em 5 fases, e a cada fase é referente a um mês.
+Esse repositório é um pouco do meu desenvolvimento profissional em frontend e inicio em backend. Eu decidi dividir em 5 fases e cada fase é referente a um mês.
 
 <h2>Organização do README:</h2>
 <ol>
