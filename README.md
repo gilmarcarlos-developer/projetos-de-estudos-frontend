@@ -13,4 +13,10 @@ Esse repositório é um pouco do meu desenvolvimento profissional em frontend e 
  * helpers e utilities
  
 3) março
+* javascript: programação orientada a objetos, js assíncrono (promises, ajax, fetch e async/await), tooling e es6 modules
+* node.js: node, npm, express e mongoDB
+* linux: deploy e chave SSH
 
+4) abril
+* api rest: js, node, express e sql
+* react: introdução, componentes de classe, redux, hooks e componentes funcionais 
