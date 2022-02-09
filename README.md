@@ -2,11 +2,12 @@
 Esse repositório é um pouco do meu desenvolvimento profissional em frontend e inicio em backend. Eu decidi dividir em 5 fases, e a cada fase é referente a um mês. Essas fases são:
 
 1) entre dezembro e janeiro
- * estudar html5: aprender a estruturar uma página, uso de tags semânticas e eventos
+* html5: aprender a estruturar uma página, uso de tags semânticas e eventos
     * tirei certificado
- * estudar css3: aprender sobre as propriedades, layout flex e grid e pré-processadores sass/scss
+* css3: aprender sobre as propriedades, layout flex e grid e pré-processadores sass/scss
     * tirei certificado
- 
+* git: introdução (add, commits, status, log, checkout); estados do projeto (Staged, Modified e Commited); branches e tipos de merge (Fast-foward, Recursive strategy, resolução de conflitos, rebase); github (repostiórios, uso do README, .gitignore, clone, push, pull, fork); issues e milestone; stash
+
 2) fevereiro
  * javascript: introdução, lógica, funções avançado, arrays avançado, objetos e prototypes
  * bootstrap 5: mobile first, componentes do bootstrap, icons, estruturação de layouts seguindo padrão grid/flexbox
