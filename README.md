@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/gilmar-carlos97/">Meu Linkedin!!</a>
 
-Esse repositório é um pouco do meu desenvolvimento profissional em frontend e inicio em backend. Eu decidi dividir em 5 fases, e a cada fase é referente a um mês. Essas fases são:
+Esse repositório é um pouco do meu desenvolvimento profissional em frontend e inicio em backend. Eu decidi dividir em 5 fases, e a cada fase é referente a um mês.
 
 <h2>Organização do README:</h2>
 <ol>
@@ -11,16 +11,16 @@ Esse repositório é um pouco do meu desenvolvimento profissional em frontend e 
     <li>Etapas desse projeto</li>
 </ol>
 
-<h2>--- Projetos desenvolvidos ---</h2>
+<h2>Projetos desenvolvidos</h2>
 
 
-<h2>--- Sobre as pastas ---</h2>
+<h2>Sobre as pastas</h2>
 <ul>
     <li>pasta com nome <b>"estudos-"</b> são onde eu deixo as anotaões que fui aprendendo durante aulas ou pesquisas</li>
     <li>pasta que iniciam com <b>número</b> são pequenos projetinhos que desenvolvi para botar em prática um pouco do que aprendi</li>
 </ul>
 
-<h2>--- Etapas/Fases ---</h2>
+<h2>Etapas/Fases</h2>
 <ol>
     <li>Entre dezembro e janeiro</li>
     <ul>
