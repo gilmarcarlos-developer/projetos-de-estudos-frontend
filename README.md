@@ -1,6 +1,9 @@
 # projetos-de-estudos-frontend
 Esse repositório é um pouco do meu desenvolvimento profissional em frontend e inicio em backend. Eu decidi dividir em 5 fases, e a cada fase é referente a um mês. Essas fases são:
 
+--- Projetos desenvolvidos
+
+--- Etapas/Fases
 1) entre dezembro e janeiro
 * html5: aprender a estruturar uma página, uso de tags semânticas e eventos
     * tirei certificado
