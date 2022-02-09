@@ -1,6 +1,6 @@
 # projetos-de-estudos-frontend
 
-<a href="https://www.linkedin.com/in/gilmar-carlos97/">Meu Linkedin!!</a>
+<a href="https://www.linkedin.com/in/gilmar-carlos97/"><b>Meu Linkedin!!</b></a>
 
 Esse repositório é um pouco do meu desenvolvimento profissional em frontend e inicio em backend. Eu decidi dividir em 5 fases e cada fase é referente a um mês.
 
