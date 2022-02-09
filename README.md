@@ -5,15 +5,20 @@
 Esse repositório é um pouco do meu desenvolvimento profissional em frontend e inicio em backend. Eu decidi dividir em 5 fases, e a cada fase é referente a um mês. Essas fases são:
 
 <h2>Organização do README:</h2>
-1) Projetos desenvolvidos
-2) Explicando sobre a organização das pastas
-3) Etapas desse projeto
+<ol>
+    <li>Projetos desenvolvidos</li>
+    <li>Explicando sobre a organização das pastas</li>
+    <li>Etapas desse projeto</li>
+</ol>
 
 <h2>--- Projetos desenvolvidos ---</h2>
 
+
 <h2>--- Sobre as pastas ---</h2>
-* pasta com nome <b>"estudos-"</b> são onde eu deixo as anotaões que fui aprendendo durante aulas ou pesquisas
-* pasta que iniciam com <b>número</b> são pequenos projetinhos que desenvolvi para botar em prática um pouco do que aprendi
+<ul>
+    <li>pasta com nome <b>"estudos-"</b> são onde eu deixo as anotaões que fui aprendendo durante aulas ou pesquisas</li>
+    <li>pasta que iniciam com <b>número</b> são pequenos projetinhos que desenvolvi para botar em prática um pouco do que aprendi</li>
+</ul>
 
 <h2>--- Etapas/Fases ---</h2>
 <ol>
@@ -28,19 +33,21 @@ Esse repositório é um pouco do meu desenvolvimento profissional em frontend e 
         <li><b>javascript:</b> introdução, lógica, funções avançado, arrays avançado, objetos e prototypes</li>
         <li><b>bootstrap 5:</b> mobile first, componentes do bootstrap, icons, estruturação de layouts seguindo padrão grid/flexbox, helpers e utilities</li>
     </ul>
+    <li>Março</li>
+    <ul>
+        <li><b>javascript:</b> programação orientada a objetos, js assíncrono (promises, ajax, fetch e async/await), tooling e es6 modules</li>
+        <li><b>node.js:</b> node, npm, express e mongoDB</li>
+        <li><b>linux:</b> deploy e chave SSH</li>
+    </ul>
+    <li>Abril</li>
+    <ul>
+        <li><b>api rest:</b> js, node, express e sql</li>
+        <li><b>react:</b> introdução, componentes de classe, redux, hooks e componentes funcionais </li>
+    </ul>
+    <li>Maio</li>
+    <ul>
+        <li><b>typescript:</b> tipos, classes e interfaces, generics, decorators, módulos, princípios SOLID, testes com jest, design patterns (gof)</li>
+    </ul>
 </ol>
 
- 
-3) março
-* javascript: programação orientada a objetos, js assíncrono (promises, ajax, fetch e async/await), tooling e es6 modules
-* node.js: node, npm, express e mongoDB
-* linux: deploy e chave SSH
-
-4) abril
-* api rest: js, node, express e sql
-* react: introdução, componentes de classe, redux, hooks e componentes funcionais 
-
-5) maio
-* typescript: tipos, classes e interfaces, generics, decorators, módulos, princípios SOLID, testes com jest, design patterns (gof)
-
-É possível que ocorra alterações durante, seja acrescentando novas ferramentas/linguagens ou removendo o que não considero relevante para o momento.
+<p>É possível que ocorra alterações durante, seja acrescentando novas ferramentas/linguagens ou removendo o que não considero relevante para o momento.</p>
