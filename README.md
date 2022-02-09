@@ -21,3 +21,8 @@ Esse repositório é um pouco do meu desenvolvimento profissional em frontend e 
 4) abril
 * api rest: js, node, express e sql
 * react: introdução, componentes de classe, redux, hooks e componentes funcionais 
+
+5) maio
+* typescript: tipos, classes e interfaces, generics, decorators, módulos, princípios SOLID, testes com jest, design patterns (gof)
+
+É possível que ocorra alterações durante, seja acrescentando novas ferramentas/linguagens ou removendo o que não considero relevante para o momento.
