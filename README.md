@@ -4,13 +4,6 @@
 
 Esse repositório é um pouco do meu desenvolvimento profissional em frontend e inicio em backend. Eu decidi dividir em 5 fases e cada fase é referente a um mês.
 
-<h2>Organização do README:</h2>
-<ol>
-    <li>Projetos desenvolvidos</li>
-    <li>Explicando sobre a organização das pastas</li>
-    <li>Etapas desse projeto</li>
-</ol>
-
 <h2>Projetos desenvolvidos</h2>
 
 
