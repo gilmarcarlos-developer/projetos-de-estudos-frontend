@@ -4,17 +4,14 @@
 
 Esse repositório é um pouco do meu desenvolvimento profissional em frontend e inicio em backend. Eu decidi dividir em 5 fases e cada fase é referente a um mês.
 
-<h2>Projetos desenvolvidos</h2>
 
+<h2>Sobre as pastas</h2>
+<p>As pastas são só estudos em aula e pesquisas em fórum e documentação. Os projetos que desenvolvi durante meus estudos estão logo abaixo.</p>
+
+<h2>Projetos desenvolvidos</h2>
 <a href="https://gilmarcarlos-developer.github.io/tela-de-login-1/" target="_blank"><b>Projeto 1: tela de login</b></a>
 </br>
 <a href="https://gilmarcarlos-developer.github.io/tabuada-1/" target="_blank"><b>Projeto 2: tabuada</b></a>
-
-<h2>Sobre as pastas</h2>
-<ul>
-    <li>pastas com nome <b>"estudos-"</b> são onde eu deixo as anotaões que fui aprendendo durante aulas ou pesquisas</li>
-    <li>pastas que iniciam com <b>números</b> são pequenos projetinhos que desenvolvi para botar em prática um pouco do que aprendi</li>
-</ul>
 
 <h2>Etapas/Fases</h2>
 <ol>
