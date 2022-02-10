@@ -29,9 +29,59 @@
             <div class="col-2">Produto B</div>
         </div>
         <div class="row">
-            <div class="col-1">Produto C</div>
-            <div class="col-5">Produto D</div>
-            <div class="col-6">Produto E</div>
+            <div class="col-2">Produto C</div>
+            <div class="col-8">Produto D</div>
+            <div class="col-2">Produto E</div>
+        </div>
+    </div>
+
+    <!-- limitando as colunas -->
+    <div class="container">
+        <div class="row row-cols-3">
+            <div class="col"></div>
+            <div class="col"></div>
+            <div class="col"></div>
+        </div>
+        <div class="row row-cols-3">
+            <div class="col"></div>
+            <div class="col"></div>
+            <div class="col"></div>
+        </div>
+    </div>
+
+    <!-- Alinhamento vertical -->
+    <div class="container vertical">
+        <div class="row align-items-center">
+            <div class="col-6"></div>
+            <div class="col-6"></div>
+        </div>
+    </div>
+    <div class="container vertical">
+        <div class="row align-items-end">
+            <div class="col-6"></div>
+            <div class="col-6"></div>
+        </div>
+    </div>
+
+    <!-- Alinhamento horizontal -->
+    <div class="container vertical">
+        <div class="row align-items-center justify-content-center">
+            <div class="col-3"></div>
+        </div>
+    </div>
+    <div class="container vertical">
+        <div class="row align-items-center justify-content-end">
+            <div class="col-3"></div>
+        </div>
+    </div>
+
+    <!-- Alinhamento de item individual -->
+    <div class="container vertical">
+        <div class="row">
+            <div class="col-3"></div>
+            <div class="col-3 align-self-center"></div>
+            <div class="col-3"></div>
+            <div class="col-3 align-self-end"></div>
         </div>
     </div>
 
@@ -49,4 +99,25 @@
     * podemos ajustar o tamanho das colunas para ocupatr 3 espaços: cols-3
     * lembrando que podemos separar em no máximo 12 divisões
     * e o espaço ocupado será proporcional a largura da row, ocupando quase 100%
+
+-- Limitando número de colunas
+    * podemos limitar a quantidade de colunas em uma row
+    * a classe a ser utilizada para isso é: row-cols-*, onde * é o número limite
+    * assim o grid sempre vai respeitar este número máximo na linha
+
+-- Alinhamento vertical
+    * as colunas dentro de uma row estão condicionadas ao flexbox, as classees são bem parecidas com as regras de flex
+    * podemos só usar classes como align-items-center
+
+-- Alinhamento horizontal
+    * segue a mesma premissa do vertical
+    * utilizamos classes no elemento pai (row) para condicionar os itens na linha horizontal
+    * para centralizar elementos podemos por a classe: justify-content-center
+    * as regras end e start também funcionam
+    * podemos combinar também vertical e horizontal
+
+-- Alinhamento de itens individualmente
+    * utilizamos classes como a align-self-center que alinha um elemento na vertical
+    * não há alinhamento unitário para a horizontal
+    
 -->
