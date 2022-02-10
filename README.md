@@ -17,9 +17,9 @@ Esse repositório é um pouco do meu desenvolvimento profissional em frontend e 
 <ol>
     <li>Entre dezembro e janeiro</li>
     <ul>
-        <li><b>html5:</b> aprender a estruturar uma página, uso de tags semânticas e eventos. ps: concluído: tirei certificado</li>
-        <li><b>css3</b>: aprender sobre as propriedades, layout flex e grid e pré-processadores sass/scss. ps: concluído: tirei certificado</li>
-        <li><b>git</b>: introdução (add, commits, status, log, checkout); estados do projeto (Staged, Modified e Commited); branches e tipos de merge (Fast-foward, Recursive strategy, resolução de conflitos, rebase); github (repostiórios, uso do README, .gitignore, clone, push, pull, fork); issues e milestone; stash</li>
+        <li>concluído <s><b>html5:</b> aprender a estruturar uma página, uso de tags semânticas e eventos.</s></li>
+        <li>concluído <s><b>css3</b>: aprender sobre as propriedades, layout flex e grid e pré-processadores sass/scss.</s></li>
+        <li>concluído <s><b>git</b>: introdução (add, commits, status, log, checkout); estados do projeto (Staged, Modified e Commited); branches e tipos de merge (Fast-foward, Recursive strategy, resolução de conflitos, rebase); github (repostiórios, uso do README, .gitignore, clone, push, pull, fork); issues e milestone; stash</s></li>
     </ul>
     <li>Fevereiro</li>
     <ul>
