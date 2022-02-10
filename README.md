@@ -9,15 +9,15 @@ Esse repositório é um pouco do meu desenvolvimento profissional em frontend e 
 
 <h2>Sobre as pastas</h2>
 <ul>
-    <li>pasta com nome <b>"estudos-"</b> são onde eu deixo as anotaões que fui aprendendo durante aulas ou pesquisas</li>
-    <li>pasta que iniciam com <b>número</b> são pequenos projetinhos que desenvolvi para botar em prática um pouco do que aprendi</li>
+    <li>pastas com nome <b>"estudos-"</b> são onde eu deixo as anotaões que fui aprendendo durante aulas ou pesquisas</li>
+    <li>pastas que iniciam com <b>números</b> são pequenos projetinhos que desenvolvi para botar em prática um pouco do que aprendi</li>
 </ul>
 
 <h2>Etapas/Fases</h2>
 <ol>
     <li>Entre dezembro e janeiro</li>
     <ul>
-        <li><b>html5:</b> aprender a estruturar uma página, uso de tags semânticas e eventos. ps: cloncluído: tirei certificado</li>
+        <li><b>html5:</b> aprender a estruturar uma página, uso de tags semânticas e eventos. ps: concluído: tirei certificado</li>
         <li><b>css3</b>: aprender sobre as propriedades, layout flex e grid e pré-processadores sass/scss. ps: concluído: tirei certificado</li>
         <li><b>git</b>: introdução (add, commits, status, log, checkout); estados do projeto (Staged, Modified e Commited); branches e tipos de merge (Fast-foward, Recursive strategy, resolução de conflitos, rebase); github (repostiórios, uso do README, .gitignore, clone, push, pull, fork); issues e milestone; stash</li>
     </ul>
