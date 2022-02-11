@@ -1,0 +1,19 @@
+.xs {
+  width: 50px;
+  height: 50px;
+  border-radius: 20%;
+}
+
+.sm {
+  width: 100px;
+  height: 100px;
+  border-radius: 20%;
+}
+
+.md {
+  width: 200px;
+  height: 200px;
+  border-radius: 20%;
+}
+
+/*# sourceMappingURL=style.css.map */
