@@ -14,6 +14,8 @@ Esse repositório é um pouco do meu desenvolvimento profissional em frontend e 
 <a href="https://gilmarcarlos-developer.github.io/tabuada-1/"><b>Projeto 2: tabuada</b></a>
 </br>
 <a href="https://gilmarcarlos-developer.github.io/lista-de-tarefas-1/"><b>Projeto 3: lista de tarefas</b></a>
+</br>
+<a href="https://gilmarcarlos-developer.github.io/landing-page-responsiva-1/"><b>Projeto 4: landing page responsiva</b></a>
 
 <h2>Etapas/Fases</h2>
 <ol>
