@@ -1,0 +1,37 @@
+.bi.bi-alarm{
+    font-size: 80px; /* aumenta o tamanho dele */
+    color: green;
+    margin: 20px;
+}
+
+.col-12{
+    padding: 15px;
+    margin: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.col-12 i{
+    margin-right: 15px;
+    font-size: 30px;
+}
+
+.confirmation{
+    border: 1px solid green;
+}
+.confirmation i{
+    color: green;
+}
+.message{
+    border: 1px solid blue;
+}
+.message i{
+    color: blue;
+}
+.warning{
+    border: 1px solid red;
+}
+.warning i{
+    color: red;
+}

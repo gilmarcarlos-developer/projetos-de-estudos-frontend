@@ -1,0 +1,22 @@
+---> bootstrap icons
+
+* ícones em SVG de forma gratuita
+    * ele não perde resolução independente do tamanho
+* permite não depender de bibliotecas de terceiros
+* podemos usar com ou sem o bootstrap
+* é possível instalar por npm, arquivos ou CDN
+
+---> ícones
+
+* os ícones são considerados fontes, como Arial
+  * alteramos seu temanho com font-size e sua cor com color
+* é um elemento inline
+* para utilizar os ícones, utilizamos a tag i
+* nessa tag vamos inserir classes respectivas para exibir um determinado ícones
+* podemos utilizar os ícones em menus, botões e em outras partes do site
+
+---> instalação por CDN
+
+* é só entrar no site do bootstrap
+* procurar a parte de "bootstrap icons" e procurar o link CDN e inserir no html
+
