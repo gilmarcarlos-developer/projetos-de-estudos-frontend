@@ -25,22 +25,28 @@ Esse repositório é um pouco do meu desenvolvimento profissional em frontend e 
         <li>concluído <s><b>css3</b>: aprender sobre as propriedades, layout flex e grid e pré-processadores sass/scss.</s></li>
         <li>concluído <s><b>git</b>: introdução (add, commits, status, log, checkout); estados do projeto (Staged, Modified e Commited); branches e tipos de merge (Fast-foward, Recursive strategy, resolução de conflitos, rebase); github (repostiórios, uso do README, .gitignore, clone, push, pull, fork); issues e milestone; stash</s></li>
     </ul>
+    </br>
     <li>Fevereiro e Março</li>
+    <strong>Acabei dando uma desanimada na programação. Tem sido díficil conseguir uma vaga de estágio e ao mesmo tempo tô indo bem mal na faculdade, então acabei atrasando esses dois meses. Mas vou tentar continuar, só vai ficar mais fácil se eu continuar.</strong>
+    </br></br>
     <ul>
         <li><b>javascript:</b> introdução, lógica, funções avançado, arrays avançado, objetos e prototypes</li>
         <li><b>bootstrap 5:</b> mobile first, componentes do bootstrap, icons, estruturação de layouts seguindo padrão grid/flexbox, helpers e utilities</li>
     </ul>
-    <li>ABril e Maio</li>
+    </br>
+    <li>Abril e Maio</li>
     <ul>
         <li><b>javascript:</b> programação orientada a objetos, js assíncrono (promises, ajax, fetch e async/await), tooling e es6 modules</li>
         <li><b>node.js:</b> node, npm, express e mongoDB</li>
         <li><b>linux:</b> deploy e chave SSH</li>
     </ul>
+    </br>
     <li>Junho</li>
     <ul>
         <li><b>api rest:</b> js, node, express e sql</li>
         <li><b>react:</b> introdução, componentes de classe, redux, hooks e componentes funcionais </li>
     </ul>
+    </br>
     <li>Julho</li>
     <ul>
         <li><b>typescript:</b> tipos, classes e interfaces, generics, decorators, módulos, princípios SOLID, testes com jest, design patterns (gof)</li>
